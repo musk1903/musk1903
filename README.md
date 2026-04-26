@@ -34,8 +34,10 @@ Full-stack web application for booking and managing golf slots with user dashboa
 ---
 
 ## 📊 GitHub Stats
-![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=musk1903&show_icons=true&theme=tokyonight)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=musk1903&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musk1903&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 What I'm Currently Working On
