@@ -1,26 +1,37 @@
-# Crocodile Facts
+# 👋 Hi, I'm Muskan Chowdhary
 
-Welcome to the Crocodile Facts project! This is a simple single-page web application that displays interesting facts about crocodiles. Users can click a button to reveal a random fact, making it an engaging way to learn about these fascinating reptiles.
+💻 Aspiring Software Developer | Full Stack Enthusiast  
+📍 Lucknow, India  
 
-## Features
+---
 
-- Displays a random crocodile fact on button click.
-- Modern design with a crocodile green color theme.
-- Subtle animations for a smooth user experience.
-- Responsive layout for various screen sizes.
+## 🚀 About Me
+- 🎓 BCA Student (2023–2026)  
+- 💡 Interested in Full Stack Development & Problem Solving  
+- ⚡ Building real-world projects like Developer MVP & Booking Systems  
+- 🌱 Currently learning Backend & System Design  
 
-## Technologies Used
+---
 
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Tech Stack
+- Languages: Java, Python, JavaScript  
+- Frontend: React.js, HTML, CSS  
+- Backend: Core Java  
+- Database: MySQL  
+- Tools: Git, GitHub, VS Code  
 
-## Getting Started
+---
 
-To run this project locally, follow these steps:
+## 📌 Projects
+- 🚀 Developers MVP – Developer productivity analytics tool  
+- 🏌️ Golf Booking Platform – Full stack slot booking system  
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/crocodile-facts.git
-   cd crocodile-facts
+---
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=musk1903&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/muskan-chowdhary-216361289
